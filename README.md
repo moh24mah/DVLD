@@ -43,8 +43,5 @@ Practical database integration using ADO.NET
 Experience working on large, realistic systems
 Strong problem-solving and system thinking skills
 
-🎥 Demo
-Project walkthrough videos available (UI flow, workflows, and business logic)
-
 🚀 Outcome
 This project strengthened my ability to design, build, and maintain enterprise-style backend systems and prepared me for advanced backend and real-world development.
